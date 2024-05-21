@@ -1,0 +1,26 @@
+.bold {
+    font-size: 32px;
+    font-weight: bold;
+    color: greenyellow;
+}
+
+.pink {
+    font-family: 'Arial';
+    font-size: 24px;
+    color: hotpink;
+}
+
+#breadtext {
+    color: teal;
+    text-decoration: underline;
+}
+
+/* box-modellen, exempel */
+.box {
+    border: 5px solid rgba(61, 106, 183);
+    display: inline-block;
+    margin: 120px 50px;
+    padding: 16px;
+    width: 50px;
+    height: 100px;
+}
